@@ -185,16 +185,16 @@ h5 {
 }
 
 .about-img.first {
-  background: url(/img/about-img-1.png) no-repeat;
+  background: url(../img/about-img-1.png) no-repeat;
   background-size: cover;
   margin-left: 0;
 }
 .about-img.second {
-  background: url(/img/about-img-2.png) no-repeat;
+  background: url(../img/about-img-2.png) no-repeat;
   background-size: cover;
 }
 .about-img.third {
-  background: url(/img/about-img-3.png) no-repeat;
+  background: url(../img/about-img-3.png) no-repeat;
   background-size: cover;
 }
 .about-img {
@@ -337,7 +337,7 @@ h5 {
   height: 500px;
   padding-top: 120px;
 
-  background: url(/img/pre-footer-bg.png) no-repeat;
+  background: url(../img/pre-footer-bg.png) no-repeat;
   background-size: cover;
   text-align: center;
 }
